@@ -1,6 +1,3 @@
-//#ifndef _CALCULATION_H_
-//#define _CALCULATION_H_
-
 #include <vector>
 #include <math.h>  // sqrt, pow
 
@@ -18,5 +15,3 @@ double str_score(int x, double mean, double std_deviation);
 
 //template <class T>
 //T min(const vector<T> &numbers);
-
-//#endif // _CALCULATION_H_
